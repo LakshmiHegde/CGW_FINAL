@@ -17,7 +17,7 @@ import java.io.IOException;
 import java.util.Base64;
 import java.util.List;
 
-@CrossOrigin(origins = "http://localhost:3000/")
+@CrossOrigin(origins = "*")
 @RestController
 public class Partner_pages {
     @Autowired
