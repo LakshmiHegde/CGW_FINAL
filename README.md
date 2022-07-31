@@ -37,8 +37,13 @@ Our delivery partner gets notified of the gift shop location and Gift Recipient 
 ## Tech Stack
 
 Frontend - Html, CSS, JS
+
 Backend - Spring Boot 
+
 Version Control - Git
+
 Database - MySQL
+
 Continuous Integration - Jenkins
+
 Containerization - Docker
